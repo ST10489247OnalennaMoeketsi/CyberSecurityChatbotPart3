@@ -423,7 +423,7 @@
             lblQuestion.Visible = false;
             // 
             // tabPage4
-            // 
+            //  
             tabPage4.Controls.Add(btnClearLog);
             tabPage4.Controls.Add(btnRefreshLog);
             tabPage4.Controls.Add(richTextBoxLog);

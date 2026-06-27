@@ -1,0 +1,12 @@
+CREATE DATABASE IF NOT EXISTS CyberSecurityChatbot;
+
+USE CyberSecurityChatbot;
+
+CREATE TABLE Tasks
+(
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Title VARCHAR(100) NOT NULL,
+    Description VARCHAR(255),
+    Reminder DATETIME NULL,
+    Completed BOOLEAN DEFAULT FALSE
+);

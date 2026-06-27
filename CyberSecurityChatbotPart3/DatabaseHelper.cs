@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace CyberSecurityChatbot
 {
-    public class DatabaseHelper
+    public class DatabaseHelper 
     {
         private string connectionString =
             "server=localhost;database=cybersecuritychatbot;uid=root;pwd=gdy#86r4@#fbd28t1*;";

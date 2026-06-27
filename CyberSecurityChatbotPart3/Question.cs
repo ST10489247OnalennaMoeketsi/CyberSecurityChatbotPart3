@@ -8,6 +8,6 @@
 
         public int CorrectAnswer { get; set; }
 
-        public string Explanation { get; set; }
+        public string Explanation { get; set; } 
     }
 }

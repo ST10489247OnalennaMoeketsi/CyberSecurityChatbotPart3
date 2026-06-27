@@ -17,5 +17,5 @@ namespace CyberSecurityChatbot
         public DateTime? Reminder { get; set; }
 
         public bool Completed { get; set; }
-    }
+    } 
 }
